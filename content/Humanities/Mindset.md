@@ -1,0 +1,5 @@
+---
+title: Mindset
+tags: 
+  - Humanities
+---
