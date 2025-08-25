@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "mpawlos.com",
     ignorePatterns: ["private", "templates", ".obsidian", "*_*", "**/Private"],
     defaultDateType: "modified",
     theme: {
@@ -40,7 +40,7 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#254336",
+          light: "#1b3128",
           lightgray: "#6B8A7A",
           gray: "#6B8A7A",
           darkgray: "#85AD98",
@@ -61,8 +61,8 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
-          dark: "github-dark",
+          light: "monokai",
+          dark: "monokai",
         },
         keepBackground: false,
       }),

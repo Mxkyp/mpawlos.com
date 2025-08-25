@@ -1,28 +1,35 @@
 ---
   Title: BadReads
-  Tags:  
+  tags:
     - in-progress
+    - Seed
 ---
 
 <!-- Backlinks -->
 [](.%:t:r.md)
 <!-- Backlinks -->
-> [!info] See on the web
+> [!info] See live on the web | github
 > 
-> **<a href="https://badreads.mpawlos.com" target="_blank">BadReads.com</a>**
+> **<a href="https://badreads.mpawlos.com" target="_blank">BadReads.com</a>** | <a href="https://github.com/Mxkyp/BadReads.git" target="_blank">on github</a>
 
 ## Overview
-**BadReads** is a **self-hosted fullstack microservice** based app. \
-The goal is to make it production-grade. To serve as a learning oportunity 
+**BadReads** is a **self-hosted fullstack microservice** based book-rating app. \
+<u>**GoodReads but better** (That's the plan).</u>
 
 
 ### Purpose
-The purpose of this project is to learn:
-1. Self-hosting, administrator duties.
-2. Developing great REST API's.
-3. Web/System/container security.
-4. Building fully functional web-services.
-5. Infrastructure.
+The purpose of this project is learning:
+1. Kubernetes and Docker.
+2. Self-hosting, administrator duties.
+3. Developing great REST API's.
+4. Web/System/container security.
+5. Building fully functional web-services.
+6. Infrastructure/IaC.
+7. Making production grade SaaS products.
+8. Scalable application architecture.
+
+And provide a **easily reproducible, complete**  full-stack application. \
+For others trying to learn how to build applications for the web.
 
 
 ## Version log
@@ -37,6 +44,8 @@ The purpose of this project is to learn:
 5. Docker compose with designated volumes, secrets etc
 
 #### Architecture
+
+<img src="../images/archi.png" height="90%" />
 
 
 
