@@ -1,13 +1,10 @@
 ---
-  Title: BadReads
+  title: BadReads
   tags:
-    - in-progress
+    - In-progress
     - Seed
 ---
 
-<!-- Backlinks -->
-[](.%:t:r.md)
-<!-- Backlinks -->
 > [!info] See live on the web | github
 > 
 > **<a href="https://badreads.mpawlos.com" target="_blank">BadReads.com</a>** | <a href="https://github.com/Mxkyp/BadReads.git" target="_blank">on github</a>
@@ -46,8 +43,4 @@ For others trying to learn how to build applications for the web.
 #### Architecture
 
 <img src="../images/archi.png" height="90%" />
-
-
-
-
 

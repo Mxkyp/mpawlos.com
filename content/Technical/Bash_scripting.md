@@ -3,7 +3,7 @@
 ---
 
 <!-- Backlinks -->
-[](./Bash.md)
+[ ](./Bash.md)
 <!-- Backlinks -->
 
 ## Basics
@@ -11,7 +11,7 @@
 
 ### Input
 
-```Bash
+```bash
   myscript book old number
 
   myscript:
