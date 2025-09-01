@@ -1,11 +1,10 @@
 ---
-  Title: "Containers"
-  Tags:
+  title: Linux containers
+  tags:
     - Technical
 ---
 
 ## Simply 
-Lightweight packages, containing (in principle) the minimally required dependencies allowing to run your service.
+Lightweight isolated environments that are build based on **images**, run 1 or more processes, share the host resources and kernel. Managed by **container runtimes**.
 
-## Advantages over vm's
-The overhead of running a container is much lesser than running a vm. 
+

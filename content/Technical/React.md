@@ -16,7 +16,7 @@ Key notes:
 3. Import a ***named*** component from a different file: **import {Component} from "pathToFile"**
 4. Import a ***default*** component from a diffrent file: **import Component from "pathToFile"**
 
-## Importing Javascript variables into components
+## Importing Javascript statments into components
 We do it by using curly braces for instance, say we have:\
 const String address = "..."
 then we would use it in a function ShowImage like so:
