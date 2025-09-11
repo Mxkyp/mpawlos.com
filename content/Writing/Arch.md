@@ -18,4 +18,4 @@ I would probably have had installed it way earlier, if i wasn't so in rush all t
 6. configured dhcp and dns using systemd-resolve and iwd.
 7. configured sudo, added non-root user.
 8. installed intel drivers, xorg stuff and dwm (major hiccups here)
-9. installed and configured lazyVim, docker.
+9.
