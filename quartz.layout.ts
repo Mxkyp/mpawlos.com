@@ -38,9 +38,6 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      filterFn: (node) => {
-        return node.data?.tags.includes("Seed") !== false 
-      },
     }),
   ],
   right: [

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Mikey&#039;s Notes</title>
+      <link>https://mpawlos.com</link>
+      <description>Last 10 notes on Mikey&#039;s Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Why&#039;s</title>
+    <link>https://mpawlos.com/Projects/Writing/Why's</link>
+    <guid>https://mpawlos.com/Projects/Writing/Why's</guid>
+    <description> Why Computer science? Because It’s a field of pure problem solving.</description>
+    <pubDate>Sat, 13 Sep 2025 14:52:43 GMT</pubDate>
+  </item><item>
+    <title>Nvim</title>
+    <link>https://mpawlos.com/Areas/Tech-Stack/Nvim</link>
+    <guid>https://mpawlos.com/Areas/Tech-Stack/Nvim</guid>
+    <description>Useful keystrokes.</description>
+    <pubDate>Sat, 13 Sep 2025 14:51:56 GMT</pubDate>
+  </item><item>
+    <title>Useful_nvim_keystrokes</title>
+    <link>https://mpawlos.com/Resources/Programming/Useful_nvim_keystrokes</link>
+    <guid>https://mpawlos.com/Resources/Programming/Useful_nvim_keystrokes</guid>
+    <description>related to: LazyVim NORMAL MODE ctrl + r (redo) g + i (go to the last place you’ve inserted) space + e (tree-view) s (seek-mode type the shit you want to find thats in view and press enter or the special key) ctrl + o - (go to the place from where you jumped) space + space (find files - telescope) /...</description>
+    <pubDate>Sat, 13 Sep 2025 14:51:28 GMT</pubDate>
+  </item><item>
+    <title>Spring Security</title>
+    <link>https://mpawlos.com/Resources/Programming/Spring_security</link>
+    <guid>https://mpawlos.com/Resources/Programming/Spring_security</guid>
+    <description> .</description>
+    <pubDate>Sat, 13 Sep 2025 14:50:42 GMT</pubDate>
+  </item><item>
+    <title>Spring_mvc</title>
+    <link>https://mpawlos.com/Resources/Programming/Spring_mvc</link>
+    <guid>https://mpawlos.com/Resources/Programming/Spring_mvc</guid>
+    <description>what is Model-view-controller? spring framework, Model-view-controller is a web framework within the spring framework.</description>
+    <pubDate>Sat, 13 Sep 2025 14:50:20 GMT</pubDate>
+  </item><item>
+    <title>Spring_context</title>
+    <link>https://mpawlos.com/Resources/Programming/Spring_context</link>
+    <guid>https://mpawlos.com/Resources/Programming/Spring_context</guid>
+    <description>What is spring context? Is the main IoC container, that manages the lifecycle of spring beans(specific object instances indicated to be managed by spring context).</description>
+    <pubDate>Sat, 13 Sep 2025 14:50:12 GMT</pubDate>
+  </item><item>
+    <title>Spring_boot</title>
+    <link>https://mpawlos.com/Resources/Programming/Spring_boot</link>
+    <guid>https://mpawlos.com/Resources/Programming/Spring_boot</guid>
+    <description>What is it? Spring Boot is a project of the Spring ecosystem.</description>
+    <pubDate>Sat, 13 Sep 2025 14:50:01 GMT</pubDate>
+  </item><item>
+    <title>Spring_bean_scopes</title>
+    <link>https://mpawlos.com/Resources/Programming/Spring_bean_scopes</link>
+    <guid>https://mpawlos.com/Resources/Programming/Spring_bean_scopes</guid>
+    <description>What are the scopes of a spring object? In default Spring objects managed by the context(beans), have two scopes of existence, singleton (the default) and prototype.</description>
+    <pubDate>Sat, 13 Sep 2025 14:49:45 GMT</pubDate>
+  </item><item>
+    <title>Spring_bean_init_types</title>
+    <link>https://mpawlos.com/Resources/Programming/Spring_bean_init_types</link>
+    <guid>https://mpawlos.com/Resources/Programming/Spring_bean_init_types</guid>
+    <description>What are they? Spring beans can be initialized in two ways.</description>
+    <pubDate>Sat, 13 Sep 2025 14:49:07 GMT</pubDate>
+  </item><item>
+    <title>Spring_bean</title>
+    <link>https://mpawlos.com/Resources/Programming/Spring_bean</link>
+    <guid>https://mpawlos.com/Resources/Programming/Spring_bean</guid>
+    <description>What a spring bean? It is an object managed by the spring context.</description>
+    <pubDate>Sat, 13 Sep 2025 14:48:29 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
