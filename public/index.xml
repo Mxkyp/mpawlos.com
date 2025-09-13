@@ -6,65 +6,65 @@
       <description>Last 10 notes on Mikey&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Why&#039;s</title>
-    <link>https://mpawlos.com/Projects/Writing/Why's</link>
-    <guid>https://mpawlos.com/Projects/Writing/Why's</guid>
-    <description> Why Computer science? Because It’s a field of pure problem solving.</description>
-    <pubDate>Sat, 13 Sep 2025 14:52:43 GMT</pubDate>
+    <title>Mikolaj Pawlos</title>
+    <link>https://mpawlos.com/</link>
+    <guid>https://mpawlos.com/</guid>
+    <description> Hello Traveler! It’s Mikolaj here, but you can call me Mikey.</description>
+    <pubDate>Sat, 13 Sep 2025 19:57:54 GMT</pubDate>
   </item><item>
-    <title>Nvim</title>
-    <link>https://mpawlos.com/Areas/Tech-Stack/Nvim</link>
-    <guid>https://mpawlos.com/Areas/Tech-Stack/Nvim</guid>
-    <description>Useful keystrokes.</description>
-    <pubDate>Sat, 13 Sep 2025 14:51:56 GMT</pubDate>
+    <title>French</title>
+    <link>https://mpawlos.com/Projects/French</link>
+    <guid>https://mpawlos.com/Projects/French</guid>
+    <description></description>
+    <pubDate>Sat, 13 Sep 2025 19:57:12 GMT</pubDate>
   </item><item>
-    <title>Useful_nvim_keystrokes</title>
-    <link>https://mpawlos.com/Resources/Programming/Useful_nvim_keystrokes</link>
-    <guid>https://mpawlos.com/Resources/Programming/Useful_nvim_keystrokes</guid>
-    <description>related to: LazyVim NORMAL MODE ctrl + r (redo) g + i (go to the last place you’ve inserted) space + e (tree-view) s (seek-mode type the shit you want to find thats in view and press enter or the special key) ctrl + o - (go to the place from where you jumped) space + space (find files - telescope) /...</description>
-    <pubDate>Sat, 13 Sep 2025 14:51:28 GMT</pubDate>
+    <title>Climbing</title>
+    <link>https://mpawlos.com/Areas/Climbing/Climbing</link>
+    <guid>https://mpawlos.com/Areas/Climbing/Climbing</guid>
+    <description>Alright first things first, as of right now I’ve been climbing at most three times.</description>
+    <pubDate>Sat, 13 Sep 2025 19:54:41 GMT</pubDate>
   </item><item>
-    <title>Spring Security</title>
-    <link>https://mpawlos.com/Resources/Programming/Spring_security</link>
-    <guid>https://mpawlos.com/Resources/Programming/Spring_security</guid>
-    <description> .</description>
-    <pubDate>Sat, 13 Sep 2025 14:50:42 GMT</pubDate>
+    <title>Selfhosting</title>
+    <link>https://mpawlos.com/Projects/Writing/Selfhosting</link>
+    <guid>https://mpawlos.com/Projects/Writing/Selfhosting</guid>
+    <description>August 2025 So this month I’ve decided that i want to try my best to get a good internship.</description>
+    <pubDate>Sat, 13 Sep 2025 16:46:02 GMT</pubDate>
   </item><item>
-    <title>Spring_mvc</title>
-    <link>https://mpawlos.com/Resources/Programming/Spring_mvc</link>
-    <guid>https://mpawlos.com/Resources/Programming/Spring_mvc</guid>
-    <description>what is Model-view-controller? spring framework, Model-view-controller is a web framework within the spring framework.</description>
-    <pubDate>Sat, 13 Sep 2025 14:50:20 GMT</pubDate>
+    <title>Declarative programming</title>
+    <link>https://mpawlos.com/Resources/Programming/Declarative</link>
+    <guid>https://mpawlos.com/Resources/Programming/Declarative</guid>
+    <description>Simply Instead of defining how to do it, we define what to do.</description>
+    <pubDate>Sat, 13 Sep 2025 16:41:24 GMT</pubDate>
   </item><item>
-    <title>Spring_context</title>
-    <link>https://mpawlos.com/Resources/Programming/Spring_context</link>
-    <guid>https://mpawlos.com/Resources/Programming/Spring_context</guid>
-    <description>What is spring context? Is the main IoC container, that manages the lifecycle of spring beans(specific object instances indicated to be managed by spring context).</description>
-    <pubDate>Sat, 13 Sep 2025 14:50:12 GMT</pubDate>
+    <title>Kubernetes pod</title>
+    <link>https://mpawlos.com/Resources/Infrastructure/Kubernetes_pod</link>
+    <guid>https://mpawlos.com/Resources/Infrastructure/Kubernetes_pod</guid>
+    <description>Simply Pod is the smallest organizational unit of a Kubernetes cluster, mostly created not by hand but by deployments, managing one or more containers, always managed by a single node.</description>
+    <pubDate>Sat, 13 Sep 2025 16:40:51 GMT</pubDate>
   </item><item>
-    <title>Spring_boot</title>
-    <link>https://mpawlos.com/Resources/Programming/Spring_boot</link>
-    <guid>https://mpawlos.com/Resources/Programming/Spring_boot</guid>
-    <description>What is it? Spring Boot is a project of the Spring ecosystem.</description>
-    <pubDate>Sat, 13 Sep 2025 14:50:01 GMT</pubDate>
+    <title>Kubernetes_networking</title>
+    <link>https://mpawlos.com/Resources/Infrastructure/Kubernetes_networking</link>
+    <guid>https://mpawlos.com/Resources/Infrastructure/Kubernetes_networking</guid>
+    <description>Each Kubernetes pod gets assigned a distinct ip address at random. Therefore its unwise to use ip addresses.</description>
+    <pubDate>Sat, 13 Sep 2025 16:40:51 GMT</pubDate>
   </item><item>
-    <title>Spring_bean_scopes</title>
-    <link>https://mpawlos.com/Resources/Programming/Spring_bean_scopes</link>
-    <guid>https://mpawlos.com/Resources/Programming/Spring_bean_scopes</guid>
-    <description>What are the scopes of a spring object? In default Spring objects managed by the context(beans), have two scopes of existence, singleton (the default) and prototype.</description>
-    <pubDate>Sat, 13 Sep 2025 14:49:45 GMT</pubDate>
+    <title>Kubernetes controllers</title>
+    <link>https://mpawlos.com/Resources/Infrastructure/Kubernetes_controller</link>
+    <guid>https://mpawlos.com/Resources/Infrastructure/Kubernetes_controller</guid>
+    <description>Simply Controller is a Kubernetes object which communicates with it’s API.</description>
+    <pubDate>Sat, 13 Sep 2025 16:40:51 GMT</pubDate>
   </item><item>
-    <title>Spring_bean_init_types</title>
-    <link>https://mpawlos.com/Resources/Programming/Spring_bean_init_types</link>
-    <guid>https://mpawlos.com/Resources/Programming/Spring_bean_init_types</guid>
-    <description>What are they? Spring beans can be initialized in two ways.</description>
-    <pubDate>Sat, 13 Sep 2025 14:49:07 GMT</pubDate>
+    <title>Linux</title>
+    <link>https://mpawlos.com/Resources/Infrastructure/Linux</link>
+    <guid>https://mpawlos.com/Resources/Infrastructure/Linux</guid>
+    <description>Definition Linux is an operating system kernel.</description>
+    <pubDate>Sat, 13 Sep 2025 16:40:06 GMT</pubDate>
   </item><item>
-    <title>Spring_bean</title>
-    <link>https://mpawlos.com/Resources/Programming/Spring_bean</link>
-    <guid>https://mpawlos.com/Resources/Programming/Spring_bean</guid>
-    <description>What a spring bean? It is an object managed by the spring context.</description>
-    <pubDate>Sat, 13 Sep 2025 14:48:29 GMT</pubDate>
+    <title>Kubernetes_service</title>
+    <link>https://mpawlos.com/Resources/Infrastructure/Kubernetes_service</link>
+    <guid>https://mpawlos.com/Resources/Infrastructure/Kubernetes_service</guid>
+    <description>Simply Services provide Kubernetes cluster-system-outside communication capabilities. Only their metadata name is used as a DNS domain.</description>
+    <pubDate>Sat, 13 Sep 2025 16:39:53 GMT</pubDate>
   </item>
     </channel>
   </rss>

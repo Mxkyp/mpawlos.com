@@ -5,7 +5,7 @@
 ---
 
 # Simply
-Services provide **cluster-system-outside** communication capabilities. 
+Services provide [Kubernetes](../../Areas/Tech-Stack/Kubernetes.md) **cluster-system-outside** communication capabilities. 
 Only their metadata name is used as a DNS domain.
 
 ## Types

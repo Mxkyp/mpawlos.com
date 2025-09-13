@@ -1,21 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://mpawlos.com/Areas/Tech-Stack/Bash</loc>
-    <lastmod>2025-09-13T14:42:12.707Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Areas/Tech-Stack/Docker</loc>
-    <lastmod>2025-09-13T14:41:58.208Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Areas/Tech-Stack/Java</loc>
-    <lastmod>2025-09-13T14:29:37.389Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Areas/Tech-Stack/Kubernetes</loc>
-    <lastmod>2025-09-13T14:37:21.163Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Areas/Tech-Stack/Nvim</loc>
-    <lastmod>2025-09-13T14:51:56.714Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Areas/Tech-Stack/Spring</loc>
-    <lastmod>2025-09-13T14:46:58.353Z</lastmod>
+    <loc>https://mpawlos.com/</loc>
+    <lastmod>2025-09-13T19:57:54.735Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Projects/BadReads</loc>
     <lastmod>2025-09-11T13:50:53.036Z</lastmod>
@@ -23,20 +8,38 @@
     <loc>https://mpawlos.com/Projects/Homelab</loc>
     <lastmod>2025-09-11T13:50:53.036Z</lastmod>
   </url><url>
+    <loc>https://mpawlos.com/Projects/checkout</loc>
+    <lastmod>2025-09-13T14:27:02.384Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Bash</loc>
+    <lastmod>2025-09-13T14:42:12.707Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Docker</loc>
+    <lastmod>2025-09-13T16:31:50.237Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Java</loc>
+    <lastmod>2025-09-13T14:29:37.389Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Kubernetes</loc>
+    <lastmod>2025-09-13T16:33:26.474Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Nvim</loc>
+    <lastmod>2025-09-13T14:51:56.714Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Spring</loc>
+    <lastmod>2025-09-13T16:33:41.129Z</lastmod>
+  </url><url>
     <loc>https://mpawlos.com/Projects/Writing/Arch</loc>
     <lastmod>2025-09-13T14:11:23.122Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Projects/Writing/Selfhosting</loc>
-    <lastmod>2025-09-13T14:45:49.529Z</lastmod>
+    <lastmod>2025-09-13T16:46:02.857Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Projects/Writing/Why's</loc>
     <lastmod>2025-09-13T14:52:43.176Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Projects/Writing/learning</loc>
     <lastmod>2025-09-13T14:11:23.122Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Projects/checkout</loc>
-    <lastmod>2025-09-13T14:27:02.384Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Resources/Infrastructure/Bash</loc>
     <lastmod>2025-09-13T13:53:52.062Z</lastmod>
@@ -54,22 +57,19 @@
     <lastmod>2025-09-13T13:58:14.174Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Resources/Infrastructure/Kubernetes_controller</loc>
-    <lastmod>2025-09-13T14:41:15.864Z</lastmod>
+    <lastmod>2025-09-13T16:40:51.327Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Resources/Infrastructure/Kubernetes_networking</loc>
-    <lastmod>2025-09-13T14:42:57.740Z</lastmod>
+    <lastmod>2025-09-13T16:40:51.340Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Resources/Infrastructure/Kubernetes_pod</loc>
-    <lastmod>2025-09-13T14:43:29.175Z</lastmod>
+    <lastmod>2025-09-13T16:40:51.352Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Resources/Infrastructure/Kubernetes_service</loc>
-    <lastmod>2025-09-13T14:43:54.630Z</lastmod>
+    <lastmod>2025-09-13T16:39:53.855Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Resources/Infrastructure/Linux</loc>
-    <lastmod>2025-09-13T14:45:17.855Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Infrastructure/Nginx</loc>
-    <lastmod>2025-09-13T14:34:26.666Z</lastmod>
+    <lastmod>2025-09-13T16:40:06.618Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Resources/Infrastructure/Runc</loc>
     <lastmod>2025-09-13T14:36:01.563Z</lastmod>
@@ -78,7 +78,7 @@
     <lastmod>2025-09-13T14:26:47.908Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Resources/Programming/Declarative</loc>
-    <lastmod>2025-09-13T14:31:18.660Z</lastmod>
+    <lastmod>2025-09-13T16:41:24.562Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Resources/Programming/Functional</loc>
     <lastmod>2025-09-13T14:31:30.964Z</lastmod>
@@ -122,6 +122,9 @@
     <loc>https://mpawlos.com/Resources/Security/HashCorp_vault</loc>
     <lastmod>2025-09-11T13:50:53.036Z</lastmod>
   </url><url>
-    <loc>https://mpawlos.com/</loc>
-    <lastmod>2025-09-11T13:50:53.041Z</lastmod>
+    <loc>https://mpawlos.com/Areas/Climbing/Climbing</loc>
+    <lastmod>2025-09-13T19:54:41.194Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Projects/French</loc>
+    <lastmod>2025-09-13T19:57:12.733Z</lastmod>
   </url></urlset>

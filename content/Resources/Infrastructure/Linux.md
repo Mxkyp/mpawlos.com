@@ -7,7 +7,7 @@ tags:
 
 **Linux** is an operating system **kernel**. 
 Meaning it defines the core structure, layout of the operating system and the way it manages computer-user interaction.
-User input is handled first by the [**shell**.](./Shell.md)
+User input is handled first by the shell.
 
 ## Distributions
 **Linux Distributions** are operating systems that are built on top of the Linux kernel.

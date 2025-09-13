@@ -5,7 +5,7 @@
 ---
 
 ## Simply
-Docker is a platform that simplifies [container](./Containers.md) usage by giving us **Docker engine** which handles networking and volumes and delegates container management to [containerd](Containerd.md)
+Docker is a platform that simplifies [container](../../Resources/Infrastructure/Containers.md) usage by giving us **Docker engine** which handles networking and volumes and delegates container management to [containerd](../../Resources/Infrastructure/Containerd.md)
 
 Docker Engine = Client + Server
 

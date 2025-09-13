@@ -5,7 +5,7 @@
 ---
 
 # Simply
-  Controller is a Kubernetes object which communicates with it's API. \
+  Controller is a [Kubernetes](../../Areas/Tech-Stack/Kubernetes.md) object which communicates with it's API. \
   Validating present state of the cluster and making changes to keep in line with specifications.
 
 6. How do controllers keep track of the state of the cluster?

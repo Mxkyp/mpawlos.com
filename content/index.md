@@ -1,14 +1,15 @@
 ---
-title: Hello!
+title: Mikolaj Pawlos
+date: 
 ---
 <center><img src="./images/garden.gif" alt="House by a lake" style="width: 80%; height: auto"/></center>
 
 
-#### It seems that you've happened to stumble across my *personal garden*.  
+## Hello Traveler! 
 
-#### Here you can read about my:
-- [Active projects](./Projects/Ongoing.md)
-- [[Technical/]] notes.
-- Notes on [[Humanities/]] .
-- View selected notes on the **left explorer bar**.
-- Search ***anything*** using the search bar.
+It's **Mikolaj** here, but you can call me *Mikey*. \
+I like engineering stuff, currently I'm hooked on [software infrastructure](./Resources/Infrastructure/) and [self-hosting](./Projects/Writing/Selfhosting.md). \
+Right now most of my time is spent building up my [homelab](./Projects/Homelab.md) and creating my first [full-stack application](./Projects/BadReads.md). 
+
+Besides those I am very much interested in [climbing](./Areas/Climbing/Climbing.md), [learning French](./Projects/French.md), **decentralized software** and [living an *intentional life*](./Areas/Credo/).
+

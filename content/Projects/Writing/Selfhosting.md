@@ -1,12 +1,6 @@
 ---
   Title: My journey through self-hosting
-  Tags: 
-    - Writing
 ---
-
-<!-- Backlinks -->
-[](./Vps.md) 
-<!-- Backlinks -->
 
 ## August 2025
 So this month I've decided that i want to try my best to get a **good** internship. \

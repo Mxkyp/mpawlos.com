@@ -4,14 +4,10 @@
     - Technical
 ---
 
-<!-- Backlinks -->
-[](./Containers.md) [](./Docker.md) [](./Containerd)
-<!-- Backlinks -->
-
 # Simply 
 A system that launches containers, and manages them.
 
-It's core building blocks include [pods](./Kubernetes_pod.md), [nodes](./Kubernetes_node.md) [controllers](./Kubernetes_controller.md) and [services](./Kubernetes_service.md).
+It's core building blocks include [pods](../../Resources/Infrastructure/Kubernetes_pod.md), [nodes](../../Resources/Infrastructure/Kubernetes_node.md) [controllers](../../Resources/Infrastructure/Kubernetes_controller.md) and [services](../../Resources/Infrastructure/Kubernetes_service.md).
 
 ## Kubernetes in a month of lunches.
 

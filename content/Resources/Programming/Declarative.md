@@ -5,5 +5,5 @@
 ---
 
 ## Simply 
-Instead of defining [***how to do it***](./Imperative_programming.md) we define what to do.
+Instead of defining how to do it, we define what to do.
 
