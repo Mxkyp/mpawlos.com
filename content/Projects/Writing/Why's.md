@@ -1,7 +1,5 @@
 ---
 title: Why's
-tags:
- - Humanities
 ---
 [](Ideas.md)
 

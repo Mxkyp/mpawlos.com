@@ -6,6 +6,18 @@
       <description>Last 10 notes on Mikey&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>BadReads</title>
+    <link>https://mpawlos.com/Projects/BadReads</link>
+    <guid>https://mpawlos.com/Projects/BadReads</guid>
+    <description> See live on the web | github BadReads.com | on github Overview BadReads is a self-hosted fullstack microservice based book-rating app.</description>
+    <pubDate>Sat, 13 Sep 2025 20:08:58 GMT</pubDate>
+  </item><item>
+    <title>Why&#039;s</title>
+    <link>https://mpawlos.com/Projects/Writing/Why's</link>
+    <guid>https://mpawlos.com/Projects/Writing/Why's</guid>
+    <description> Why Computer science? Because It’s a field of pure problem solving.</description>
+    <pubDate>Sat, 13 Sep 2025 20:08:58 GMT</pubDate>
+  </item><item>
     <title>Mikolaj Pawlos</title>
     <link>https://mpawlos.com/</link>
     <guid>https://mpawlos.com/</guid>
@@ -53,18 +65,6 @@
     <guid>https://mpawlos.com/Resources/Infrastructure/Kubernetes_controller</guid>
     <description>Simply Controller is a Kubernetes object which communicates with it’s API.</description>
     <pubDate>Sat, 13 Sep 2025 16:40:51 GMT</pubDate>
-  </item><item>
-    <title>Linux</title>
-    <link>https://mpawlos.com/Resources/Infrastructure/Linux</link>
-    <guid>https://mpawlos.com/Resources/Infrastructure/Linux</guid>
-    <description>Definition Linux is an operating system kernel.</description>
-    <pubDate>Sat, 13 Sep 2025 16:40:06 GMT</pubDate>
-  </item><item>
-    <title>Kubernetes_service</title>
-    <link>https://mpawlos.com/Resources/Infrastructure/Kubernetes_service</link>
-    <guid>https://mpawlos.com/Resources/Infrastructure/Kubernetes_service</guid>
-    <description>Simply Services provide Kubernetes cluster-system-outside communication capabilities. Only their metadata name is used as a DNS domain.</description>
-    <pubDate>Sat, 13 Sep 2025 16:39:53 GMT</pubDate>
   </item>
     </channel>
   </rss>
