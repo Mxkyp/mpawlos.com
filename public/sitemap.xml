@@ -1,130 +1,121 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://mpawlos.com/</loc>
-    <lastmod>2025-09-13T19:57:54.735Z</lastmod>
+    <lastmod>2025-09-22T19:00:02.040Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Archives/Why's</loc>
+    <lastmod>2025-09-13T20:08:58.431Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Projects/BadReads</loc>
     <lastmod>2025-09-13T20:08:58.438Z</lastmod>
   </url><url>
+    <loc>https://mpawlos.com/Projects/French</loc>
+    <lastmod>2025-09-13T19:57:12.733Z</lastmod>
+  </url><url>
     <loc>https://mpawlos.com/Projects/Homelab</loc>
     <lastmod>2025-09-11T13:50:53.036Z</lastmod>
   </url><url>
-    <loc>https://mpawlos.com/Projects/checkout</loc>
-    <lastmod>2025-09-13T14:27:02.384Z</lastmod>
+    <loc>https://mpawlos.com/Resources/Containerd</loc>
+    <lastmod>2025-09-22T18:48:55.850Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Resources/Containers</loc>
+    <lastmod>2025-09-13T14:25:39.138Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Resources/Cyber_security</loc>
+    <lastmod>2025-09-22T18:49:21.416Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Resources/Declarative</loc>
+    <lastmod>2025-09-22T18:49:33.761Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Resources/Dns</loc>
+    <lastmod>2025-09-22T18:49:44.870Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Resources/English_dictionary</loc>
+    <lastmod>2025-09-22T18:50:07.644Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Resources/Functional</loc>
+    <lastmod>2025-09-22T18:50:59.629Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Resources/HashCorp_vault</loc>
+    <lastmod>2025-09-22T18:56:49.784Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Resources/Javascript</loc>
+    <lastmod>2025-09-22T18:51:13.891Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Resources/Linux</loc>
+    <lastmod>2025-09-22T18:51:20.015Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Resources/React</loc>
+    <lastmod>2025-09-22T18:51:26.785Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Resources/Runc</loc>
+    <lastmod>2025-09-22T18:51:34.629Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Climbing/Climbing</loc>
+    <lastmod>2025-09-22T18:39:04.395Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Journal/Arch</loc>
+    <lastmod>2025-09-22T18:12:11.589Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Journal/Selfhosting</loc>
+    <lastmod>2025-09-13T16:46:02.857Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Meditations/Information_hoarding</loc>
+    <lastmod>2025-09-22T18:18:31.723Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Meditations/Travelling_light</loc>
+    <lastmod>2025-09-13T20:45:49.366Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Meditations/learning</loc>
+    <lastmod>2025-09-13T14:11:23.122Z</lastmod>
   </url><url>
     <loc>https://mpawlos.com/Areas/Tech-Stack/Bash</loc>
     <lastmod>2025-09-13T14:42:12.707Z</lastmod>
   </url><url>
-    <loc>https://mpawlos.com/Areas/Tech-Stack/Docker</loc>
-    <lastmod>2025-09-13T16:31:50.237Z</lastmod>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Docker/Docker_commands_cheat_sheet</loc>
+    <lastmod>2025-09-22T18:56:15.110Z</lastmod>
   </url><url>
-    <loc>https://mpawlos.com/Areas/Tech-Stack/Java</loc>
-    <lastmod>2025-09-13T14:29:37.389Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Areas/Tech-Stack/Kubernetes</loc>
-    <lastmod>2025-09-13T16:33:26.474Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Areas/Tech-Stack/Nvim</loc>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Tools/Nvim</loc>
     <lastmod>2025-09-13T14:51:56.714Z</lastmod>
   </url><url>
-    <loc>https://mpawlos.com/Areas/Tech-Stack/Spring</loc>
-    <lastmod>2025-09-13T16:33:41.129Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Projects/Writing/Arch</loc>
-    <lastmod>2025-09-13T14:11:23.122Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Projects/Writing/Selfhosting</loc>
-    <lastmod>2025-09-13T16:46:02.857Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Projects/Writing/Why's</loc>
-    <lastmod>2025-09-13T20:08:58.431Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Projects/Writing/learning</loc>
-    <lastmod>2025-09-13T14:11:23.122Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Infrastructure/Bash</loc>
-    <lastmod>2025-09-13T13:53:52.062Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Infrastructure/Containerd</loc>
-    <lastmod>2025-09-13T14:25:14.755Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Infrastructure/Containers</loc>
-    <lastmod>2025-09-13T14:25:39.138Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Infrastructure/Dns</loc>
-    <lastmod>2025-09-13T14:32:14.412Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Infrastructure/Docker_commands_cheat_sheet</loc>
-    <lastmod>2025-09-13T13:58:14.174Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Infrastructure/Kubernetes_controller</loc>
-    <lastmod>2025-09-13T16:40:51.327Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Infrastructure/Kubernetes_networking</loc>
-    <lastmod>2025-09-13T16:40:51.340Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Infrastructure/Kubernetes_pod</loc>
-    <lastmod>2025-09-13T16:40:51.352Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Infrastructure/Kubernetes_service</loc>
-    <lastmod>2025-09-13T16:39:53.855Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Infrastructure/Linux</loc>
-    <lastmod>2025-09-13T16:40:06.618Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Infrastructure/Runc</loc>
-    <lastmod>2025-09-13T14:36:01.563Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Languages/English_dictionary</loc>
-    <lastmod>2025-09-13T14:26:47.908Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/Declarative</loc>
-    <lastmod>2025-09-13T16:41:24.562Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/Functional</loc>
-    <lastmod>2025-09-13T14:31:30.964Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/Javascript</loc>
-    <lastmod>2025-09-11T13:50:53.036Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/React</loc>
-    <lastmod>2025-09-13T14:35:33.723Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/Spring_AOP</loc>
-    <lastmod>2025-09-13T14:47:19.716Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/Spring_bean</loc>
-    <lastmod>2025-09-13T14:48:29.935Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/Spring_bean_init_types</loc>
-    <lastmod>2025-09-13T14:49:07.280Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/Spring_bean_scopes</loc>
-    <lastmod>2025-09-13T14:49:45.134Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/Spring_boot</loc>
-    <lastmod>2025-09-13T14:50:01.387Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/Spring_context</loc>
-    <lastmod>2025-09-13T14:50:12.669Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/Spring_mvc</loc>
-    <lastmod>2025-09-13T14:50:20.282Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/Spring_security</loc>
-    <lastmod>2025-09-13T14:50:42.327Z</lastmod>
-  </url><url>
-    <loc>https://mpawlos.com/Resources/Programming/Useful_nvim_keystrokes</loc>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Tools/Useful_nvim_keystrokes</loc>
     <lastmod>2025-09-13T14:51:28.078Z</lastmod>
   </url><url>
-    <loc>https://mpawlos.com/Resources/Security/Cyber_security</loc>
-    <lastmod>2025-09-13T14:04:45.657Z</lastmod>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Kubernetes/Kubernetes_controller</loc>
+    <lastmod>2025-09-13T16:40:51.327Z</lastmod>
   </url><url>
-    <loc>https://mpawlos.com/Resources/Security/HashCorp_vault</loc>
-    <lastmod>2025-09-11T13:50:53.036Z</lastmod>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Kubernetes/Kubernetes_networking</loc>
+    <lastmod>2025-09-13T16:40:51.340Z</lastmod>
   </url><url>
-    <loc>https://mpawlos.com/Areas/Climbing/Climbing</loc>
-    <lastmod>2025-09-13T19:54:41.194Z</lastmod>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Kubernetes/Kubernetes_pod</loc>
+    <lastmod>2025-09-13T16:40:51.352Z</lastmod>
   </url><url>
-    <loc>https://mpawlos.com/Projects/French</loc>
-    <lastmod>2025-09-13T19:57:12.733Z</lastmod>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Kubernetes/Kubernetes_service</loc>
+    <lastmod>2025-09-13T16:39:53.855Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Java/Spring/Spring</loc>
+    <lastmod>2025-09-13T16:33:41.129Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Java/Spring/Spring_AOP</loc>
+    <lastmod>2025-09-13T14:47:19.716Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Java/Spring/Spring_bean</loc>
+    <lastmod>2025-09-13T14:48:29.935Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Java/Spring/Spring_bean_init_types</loc>
+    <lastmod>2025-09-13T14:49:07.280Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Java/Spring/Spring_bean_scopes</loc>
+    <lastmod>2025-09-13T14:49:45.134Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Java/Spring/Spring_boot</loc>
+    <lastmod>2025-09-13T14:50:01.387Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Java/Spring/Spring_context</loc>
+    <lastmod>2025-09-13T14:50:12.669Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Java/Spring/Spring_mvc</loc>
+    <lastmod>2025-09-13T14:50:20.282Z</lastmod>
+  </url><url>
+    <loc>https://mpawlos.com/Areas/Tech-Stack/Java/Spring/Spring_security</loc>
+    <lastmod>2025-09-13T14:50:42.327Z</lastmod>
   </url></urlset>

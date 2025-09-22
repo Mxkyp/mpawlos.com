@@ -8,8 +8,8 @@ date:
 ## Hello Traveler! 
 
 It's **Mikolaj** here, but you can call me *Mikey*. \
-I like engineering stuff, currently I'm hooked on [software infrastructure](./Resources/Infrastructure/) and [self-hosting](./Projects/Writing/Selfhosting.md). \
+I like engineering stuff, currently I'm hooked on **software infrastructure** and [self-hosting](./Areas/Journal/Selfhosting.md). \
 Right now most of my time is spent building up my [homelab](./Projects/Homelab.md) and creating my first [full-stack application](./Projects/BadReads.md). 
 
-Besides those I am very much interested in [climbing](./Areas/Climbing/Climbing.md), [learning French](./Projects/French.md), **decentralized software** and [living an *intentional life*](./Areas/Credo/).
+Besides those I am very much interested in [climbing](./Areas/Climbing/Climbing.md), [learning French](./Projects/French.md), **decentralized software**. I occasionally [wonder about stuff ](./Areas/Meditations/).
 

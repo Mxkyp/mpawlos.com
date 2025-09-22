@@ -6,65 +6,65 @@
       <description>Last 10 notes on Mikey&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>BadReads</title>
-    <link>https://mpawlos.com/Projects/BadReads</link>
-    <guid>https://mpawlos.com/Projects/BadReads</guid>
-    <description> See live on the web | github BadReads.com | on github Overview BadReads is a self-hosted fullstack microservice based book-rating app.</description>
-    <pubDate>Sat, 13 Sep 2025 20:08:58 GMT</pubDate>
-  </item><item>
-    <title>Why&#039;s</title>
-    <link>https://mpawlos.com/Projects/Writing/Why's</link>
-    <guid>https://mpawlos.com/Projects/Writing/Why's</guid>
-    <description> Why Computer science? Because It’s a field of pure problem solving.</description>
-    <pubDate>Sat, 13 Sep 2025 20:08:58 GMT</pubDate>
-  </item><item>
     <title>Mikolaj Pawlos</title>
     <link>https://mpawlos.com/</link>
     <guid>https://mpawlos.com/</guid>
     <description> Hello Traveler! It’s Mikolaj here, but you can call me Mikey.</description>
-    <pubDate>Sat, 13 Sep 2025 19:57:54 GMT</pubDate>
+    <pubDate>Mon, 22 Sep 2025 19:00:02 GMT</pubDate>
   </item><item>
-    <title>French</title>
-    <link>https://mpawlos.com/Projects/French</link>
-    <guid>https://mpawlos.com/Projects/French</guid>
-    <description></description>
-    <pubDate>Sat, 13 Sep 2025 19:57:12 GMT</pubDate>
+    <title>HashCorp_vault</title>
+    <link>https://mpawlos.com/Resources/HashCorp_vault</link>
+    <guid>https://mpawlos.com/Resources/HashCorp_vault</guid>
+    <description>Why? The core idea is the centralization of secret management. Prevent “sprawl” - holding secrets in many different, mostly insecure places.</description>
+    <pubDate>Mon, 22 Sep 2025 18:56:49 GMT</pubDate>
   </item><item>
-    <title>Climbing</title>
-    <link>https://mpawlos.com/Areas/Climbing/Climbing</link>
-    <guid>https://mpawlos.com/Areas/Climbing/Climbing</guid>
-    <description>Alright first things first, as of right now I’ve been climbing at most three times.</description>
-    <pubDate>Sat, 13 Sep 2025 19:54:41 GMT</pubDate>
+    <title>Docker commands</title>
+    <link>https://mpawlos.com/Areas/Tech-Stack/Docker/Docker_commands_cheat_sheet</link>
+    <guid>https://mpawlos.com/Areas/Tech-Stack/Docker/Docker_commands_cheat_sheet</guid>
+    <description>Useful commands Image creation(im) (2) docker container commit (CONTAINER NAME) (IMAGE NAME) - creates/overwrites an image based on the container, and assigns it the name \ Deletion (d) (1) docker container rm -f $((i.1)) - removes all containers \ interaction (in) (1) docker container —interactive ...</description>
+    <pubDate>Mon, 22 Sep 2025 18:56:15 GMT</pubDate>
   </item><item>
-    <title>Selfhosting</title>
-    <link>https://mpawlos.com/Projects/Writing/Selfhosting</link>
-    <guid>https://mpawlos.com/Projects/Writing/Selfhosting</guid>
-    <description>August 2025 So this month I’ve decided that i want to try my best to get a good internship.</description>
-    <pubDate>Sat, 13 Sep 2025 16:46:02 GMT</pubDate>
+    <title>Runc</title>
+    <link>https://mpawlos.com/Resources/Runc</link>
+    <guid>https://mpawlos.com/Resources/Runc</guid>
+    <description>Simply Starts containers and performs operations on their processes.</description>
+    <pubDate>Mon, 22 Sep 2025 18:51:34 GMT</pubDate>
   </item><item>
-    <title>Declarative programming</title>
-    <link>https://mpawlos.com/Resources/Programming/Declarative</link>
-    <guid>https://mpawlos.com/Resources/Programming/Declarative</guid>
-    <description>Simply Instead of defining how to do it, we define what to do.</description>
-    <pubDate>Sat, 13 Sep 2025 16:41:24 GMT</pubDate>
+    <title>React</title>
+    <link>https://mpawlos.com/Resources/React</link>
+    <guid>https://mpawlos.com/Resources/React</guid>
+    <description>Simply A Javascript library for creating responsive UI’s.</description>
+    <pubDate>Mon, 22 Sep 2025 18:51:26 GMT</pubDate>
   </item><item>
-    <title>Kubernetes pod</title>
-    <link>https://mpawlos.com/Resources/Infrastructure/Kubernetes_pod</link>
-    <guid>https://mpawlos.com/Resources/Infrastructure/Kubernetes_pod</guid>
-    <description>Simply Pod is the smallest organizational unit of a Kubernetes cluster, mostly created not by hand but by deployments, managing one or more containers, always managed by a single node.</description>
-    <pubDate>Sat, 13 Sep 2025 16:40:51 GMT</pubDate>
+    <title>Linux</title>
+    <link>https://mpawlos.com/Resources/Linux</link>
+    <guid>https://mpawlos.com/Resources/Linux</guid>
+    <description>Definition Linux is an operating system kernel.</description>
+    <pubDate>Mon, 22 Sep 2025 18:51:20 GMT</pubDate>
   </item><item>
-    <title>Kubernetes_networking</title>
-    <link>https://mpawlos.com/Resources/Infrastructure/Kubernetes_networking</link>
-    <guid>https://mpawlos.com/Resources/Infrastructure/Kubernetes_networking</guid>
-    <description>Each Kubernetes pod gets assigned a distinct ip address at random. Therefore its unwise to use ip addresses.</description>
-    <pubDate>Sat, 13 Sep 2025 16:40:51 GMT</pubDate>
+    <title>JavaScript</title>
+    <link>https://mpawlos.com/Resources/Javascript</link>
+    <guid>https://mpawlos.com/Resources/Javascript</guid>
+    <description>Simply Lightweight interpreted multi-paradigm language with functions that are treated like variables with Lexical scope.</description>
+    <pubDate>Mon, 22 Sep 2025 18:51:13 GMT</pubDate>
   </item><item>
-    <title>Kubernetes controllers</title>
-    <link>https://mpawlos.com/Resources/Infrastructure/Kubernetes_controller</link>
-    <guid>https://mpawlos.com/Resources/Infrastructure/Kubernetes_controller</guid>
-    <description>Simply Controller is a Kubernetes object which communicates with it’s API.</description>
-    <pubDate>Sat, 13 Sep 2025 16:40:51 GMT</pubDate>
+    <title>Functional Programming</title>
+    <link>https://mpawlos.com/Resources/Functional</link>
+    <guid>https://mpawlos.com/Resources/Functional</guid>
+    <description>Simply A declarative programming paradigm.</description>
+    <pubDate>Mon, 22 Sep 2025 18:50:59 GMT</pubDate>
+  </item><item>
+    <title>English_dictionary</title>
+    <link>https://mpawlos.com/Resources/English_dictionary</link>
+    <guid>https://mpawlos.com/Resources/English_dictionary</guid>
+    <description>Proprietary - privately(almost always) owned Ephemeral - lasting a very short time.</description>
+    <pubDate>Mon, 22 Sep 2025 18:50:07 GMT</pubDate>
+  </item><item>
+    <title>Domain name server</title>
+    <link>https://mpawlos.com/Resources/Dns</link>
+    <guid>https://mpawlos.com/Resources/Dns</guid>
+    <description>Simply How to map unreadable ip addresses to names, so everybody gets them.</description>
+    <pubDate>Mon, 22 Sep 2025 18:49:44 GMT</pubDate>
   </item>
     </channel>
   </rss>

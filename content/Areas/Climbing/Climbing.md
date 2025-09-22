@@ -1,3 +1,7 @@
+---
+  tags:
+    - climbing
+---
 Alright first things first, as of right now I've been climbing at most three times. 
 
 But truth be it got a hold on me, why? Well I think maybe because of how it represent freedom.\
