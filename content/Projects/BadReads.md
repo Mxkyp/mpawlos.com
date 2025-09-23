@@ -44,3 +44,9 @@ For others trying to learn how to build applications for the web.
 
 <img src="../images/archi.png" height="90%" />
 
+#### Notes
+
+As of right now I want to
+1. Add POST handling to REST api(adding new users and them adding their books read)
+2. Perform a project-wide refactoring (Docker images, frontend, backend tests)
+3.
